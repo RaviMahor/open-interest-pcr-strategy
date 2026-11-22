@@ -1,0 +1,14 @@
+{
+    "min_margin_pct": 0.1,
+    "account_name": "Main",
+    "username": "Quantitative Trader",
+    "email": "trader@example.com",
+    "phone": "+1 0000000000",
+    "margin_mode": "cross",
+    "strategy_mode": "ALL_PCR",
+    "user_auto_execution": true,
+    "api_key": "",
+    "api_secret": "",
+    "telegram_bot_token": "",
+    "telegram_chat_id": ""
+}
